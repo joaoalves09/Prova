@@ -17,3 +17,7 @@ R: quando se junta 2 branch.
 Pergunta 5 : O que é pull ?
 
 R:download de alterações do repositório remoto para o repositório local.
+
+Pergunta 6 : O que é branch ?
+
+R:A ramificação de um repositório.
