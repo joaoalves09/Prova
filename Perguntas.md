@@ -13,3 +13,7 @@ R:é a pasta onde será guardada os arquivos do projeto.
 Pergunta 4 : O que é marge ?
 
 R: quando se junta 2 branch.
+
+Pergunta 5 : O que é pull ?
+
+R:download de alterações do repositório remoto para o repositório local.
